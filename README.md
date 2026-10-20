@@ -31,7 +31,7 @@ Estas líneas se articulan mediante el Balanced Scorecard (BSC), con indicadores
 
 - La matriz de perfil competitivo (MPC) del documento base asigna una puntuación ponderada de **3,35** al caso anonimizado, frente a 3,40 para Salesforce, 3,25 para HubSpot y 3,20 para Zoho CRM. Son calificaciones del ejercicio académico; no constituyen una evaluación independiente ni una medición actual del mercado.
 - La MEFE suma **3,01** según las ponderaciones consignadas en el documento fuente.
-- La MEFI no puede darse por cerrada: falta la calificación y puntuación ponderada de la fila «Integraciones clave (WhatsApp)». El total de **2,09** suma únicamente las filas con puntuación disponible, mientras que el texto fuente también menciona 3,30 sin reconciliarlo con la tabla. Por rigor, este repositorio trata el resultado como **provisional e incompleto**.
+- La MEFI se recalculó en **2,33** al consignar una clasificación de **3** para «Integraciones clave (WhatsApp)», conservando el peso original de **0,08** y añadiendo una puntuación ponderada de **0,24**. El subtotal de fortalezas es 1,49 y el de debilidades es 0,84. La cifra **3,30** mencionada en el documento fuente no puede reconciliarse con la tabla y no se considera validada.
 - El documento base estima una facturación recurrente mensual cercana a **COP 29,25 millones** usando 117 clientes por COP 250.000 mensuales por cliente. Ese cálculo es aritméticamente consistente bajo dichos supuestos, pero las cifras no están auditadas ni verificadas como datos reales de una empresa.
 - El documento fuente mezcla referencias a 117 clientes y a más de 10.000 clientes activos. Podrían ser unidades distintas (por ejemplo, empresas y usuarios), pero el texto no lo confirma. No se utilizan como una misma métrica.
 

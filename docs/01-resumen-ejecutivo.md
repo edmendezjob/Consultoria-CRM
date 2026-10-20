@@ -44,7 +44,7 @@ El ejercicio PESTEL identifica como tendencias relevantes la digitalización emp
 
 La MPC asigna al caso anonimizado una puntuación de 3,35, por debajo de Salesforce (3,40) y por encima de HubSpot (3,25) y Zoho CRM (3,20). En ese ejercicio, precio/accesibilidad y soporte aparecen como puntos de comparación favorables. Las puntuaciones reflejan el juicio del análisis académico, no una medición independiente.
 
-La MEFE presenta un total ponderado de 3,01. La MEFI no se considera cerrada: no se consignó la puntuación de «Integraciones clave (WhatsApp)» y el texto fuente incluye un resultado alternativo de 3,30 sin reconciliarlo con la tabla. El total de 2,09 corresponde a las filas que sí cuentan con puntuación visible y debe tratarse como provisional.
+La MEFE presenta un total ponderado de 3,01. La MEFI se recalculó en **2,33** al incorporar una clasificación de 3 para «Integraciones clave (WhatsApp)», manteniendo su peso original de 0,08 y una puntuación ponderada de 0,24. El resultado refleja una posición interna que requiere fortalecimiento. La cifra de 3,30 mencionada en el documento fuente no se ha podido reconciliar con la tabla y permanece como una discrepancia pendiente de verificación.
 
 ## 5. Viabilidad financiera preliminar
 
