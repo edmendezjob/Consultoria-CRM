@@ -1,0 +1,39 @@
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python y notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+
+# Archivos temporales, exportaciones y logs
+*.tmp
+*.temp
+*.log
+*.bak
+*.orig
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.csv
+!data/example-synthetic.csv
+
+# Credenciales y configuración local
+secrets/
+credentials/
+config.local.*
+
+# Resultados locales de análisis
+outputs/
+reports/generated/
