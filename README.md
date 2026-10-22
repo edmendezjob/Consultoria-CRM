@@ -104,8 +104,4 @@ Los periodos siguientes son una sugerencia de planificación; comienzan una vez 
 
 ## Licencia y uso
 
-Este repositorio **no incluye por ahora una licencia abierta**. No se concede mediante este README permiso general para redistribuir, modificar o reutilizar el material. Antes de agregar una licencia, confirma los derechos sobre el contenido original, el logotipo y las contribuciones de los integrantes del trabajo fuente.
-
-## Siguientes mejoras posibles
-
-Para fortalecer el portafolio, el próximo paso recomendado es adjuntar un conjunto de datos sintético y reproducible, documentar la fórmula de cada KPI y agregar visualizaciones del BSC una vez que las metas y líneas base estén validadas. No deben publicarse datos reales o confidenciales de una empresa sin autorización.
+Este repositorio **no incluye por ahora una licencia abierta**. No se concede mediante este README permiso general para redistribuir, modificar o reutilizar el material.
